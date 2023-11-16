@@ -1,0 +1,9 @@
+# ninja log v5
+0	14	1700127098719790593	CMakeFiles/NumberToBitPattern.dir/main.c.o	19a146f0ced41019
+14	25	1700127098731790647	NumberToBitPattern	f0d573ca181e78ef
+0	11	1700127132843944734	CMakeFiles/NumberToBitPattern.dir/main.c.o	19a146f0ced41019
+11	22	1700127132855944788	NumberToBitPattern	f0d573ca181e78ef
+0	17	1700127448949318300	CMakeFiles/NumberToBitPattern.dir/main.c.o	19a146f0ced41019
+17	34	1700127448965318370	NumberToBitPattern	f0d573ca181e78ef
+0	11	1700127469873411363	CMakeFiles/NumberToBitPattern.dir/main.c.o	19a146f0ced41019
+12	23	1700127469885411416	NumberToBitPattern	f0d573ca181e78ef
